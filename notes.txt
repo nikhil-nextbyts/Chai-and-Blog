@@ -1,0 +1,2 @@
+if you build the project by create-react-app : you have to decleare env ex:- REACT_APP_HERE_YOUR_NAME and acces them as process.env.REACT_APP_HERE_YOUR_NAME
+IF YOU ARE USING VITE : decleare as VITE_SECREATE_KEY and acess as import.meta.env.VITE_SECREATE_KEY
